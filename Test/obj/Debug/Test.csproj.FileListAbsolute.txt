@@ -1,0 +1,9 @@
+C:\Users\dimit\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Users\dimit\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\dimit\Documents\Visual Studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\dimit\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\dimit\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\dimit\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\dimit\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\dimit\Documents\Visual Studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
